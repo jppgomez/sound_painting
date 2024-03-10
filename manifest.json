@@ -11,7 +11,7 @@
     ],
     "theme_color": "#000000",
     "background_color": "#d3a784",
-    "start_url": "/",
+    "start_url": "/sound_painting/",
     "display": "standalone",
     "orientation": "landscape"
 }
