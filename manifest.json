@@ -9,9 +9,9 @@
             "purpose": "any maskable"
         }
     ],
-    "theme_color": "#000000",
+    "theme_color": "#FFFFFF",
     "background_color": "#d3a784",
     "start_url": "/sound_painting/",
-    "display": "standalone",
+    "display": "fullscreen",
     "orientation": "landscape"
 }
